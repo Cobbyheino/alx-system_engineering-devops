@@ -5,4 +5,5 @@
 4-listmorefiles displays all files including hidden in long format
 5-listfilesdigitonly displays all files with hidden and uswer and group id
 6-firstdirectory creates a folder in tmp
+7-movethatfile is moving betty from tmp to myfirstdirectory
 
