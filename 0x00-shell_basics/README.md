@@ -8,3 +8,4 @@
 7-movethatfile is moving betty from tmp to myfirstdirectory
 8-delete the file betty from tmp/first repositiry
 9-delete my-first-repo
+10-PREVIOUS DIRECTORY
