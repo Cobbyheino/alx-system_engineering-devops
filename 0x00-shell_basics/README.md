@@ -10,4 +10,5 @@
 9-delete my-first-repo
 10-PREVIOUS DIRECTORY
 11-list all file in parent working and boot directory
+12-VIEWING TYPE OF FILE FOR iamafile.
 
