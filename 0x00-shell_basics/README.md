@@ -13,4 +13,4 @@
 12-VIEWING TYPE OF FILE FOR iamafile.
 13-symbolic link
 14-copying all html file except already copied
-
+15-moving all uppercase
