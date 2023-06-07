@@ -9,3 +9,5 @@
 8-delete the file betty from tmp/first repositiry
 9-delete my-first-repo
 10-PREVIOUS DIRECTORY
+11-list all file in parent working and boot directory
+
