@@ -1,1 +1,13 @@
 0x03. Shell, init files, variables and expansions
+O. alias
+1. hello you
+2.PATH
+3.MORE PATH
+4.VARIABLES
+5.LOCAL VARIABLES
+6.MORE LOCAL VAR
+7.GLOBAL VAR
+8.ENVIRO VAR
+9.MORE ENVIRO VAR
+10.DISPLAYS
+11.
